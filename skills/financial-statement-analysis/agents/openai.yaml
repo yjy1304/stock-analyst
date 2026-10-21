@@ -1,0 +1,4 @@
+interface:
+  display_name: "上市公司财务分析"
+  short_description: "三年与八季度财报研究、盈利质量核验、中文图表及财务亮点与风险分析"
+  default_prompt: "使用 $financial-statement-analysis 分析指定公司的最新财报，覆盖三年与八个单季度，归档原始资料并生成图表，单列财务亮点与风险及后续验证指标。"
