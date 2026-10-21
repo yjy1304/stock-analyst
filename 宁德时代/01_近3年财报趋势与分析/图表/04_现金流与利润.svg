@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620">
+<rect width="100%" height="100%" fill="#fff"/>
+<g font-family="Arial Unicode MS,PingFang SC,Microsoft YaHei,sans-serif">
+<text x="35" y="38" font-size="24" fill="#263448" text-anchor="start">经营现金流与归母净利润</text>
+<text x="35" y="65" font-size="14" fill="#263448" text-anchor="start">研究截至2026年10月21日｜中国会计准则合并口径</text>
+<text x="30" y="110" font-size="19" fill="#263448" text-anchor="start">完整年度</text>
+<text x="30" y="135" font-size="13" fill="#263448" text-anchor="start">亿元</text>
+<path d="M88,483.0h480" stroke="#e5e9ef"/>
+<text x="80" y="488.0" font-size="12" fill="#263448" text-anchor="end">0</text>
+<path d="M88,401.75h480" stroke="#e5e9ef"/>
+<text x="80" y="406.75" font-size="12" fill="#263448" text-anchor="end">395</text>
+<path d="M88,320.5h480" stroke="#e5e9ef"/>
+<text x="80" y="325.5" font-size="12" fill="#263448" text-anchor="end">790</text>
+<path d="M88,239.25h480" stroke="#e5e9ef"/>
+<text x="80" y="244.25" font-size="12" fill="#263448" text-anchor="end">1185</text>
+<path d="M88,158.0h480" stroke="#e5e9ef"/>
+<text x="80" y="163.0" font-size="12" fill="#263448" text-anchor="end">1580</text>
+<text x="168.0" y="506" font-size="12" fill="#263448" text-anchor="middle">2023</text>
+<text x="328.0" y="506" font-size="12" fill="#263448" text-anchor="middle">2024</text>
+<text x="488.0" y="506" font-size="12" fill="#263448" text-anchor="middle">2025</text>
+<rect x="110.40" y="392.24" width="51.84" height="90.76" fill="#e18727" rx="2"/>
+<text x="136.32" y="386.24426835443035" font-size="12" fill="#e18727" text-anchor="middle">441.2</text>
+<rect x="270.40" y="378.62" width="51.84" height="104.38" fill="#e18727" rx="2"/>
+<text x="296.32" y="372.6201161392405" font-size="12" fill="#e18727" text-anchor="middle">507.4</text>
+<rect x="430.40" y="334.48" width="51.84" height="148.52" fill="#e18727" rx="2"/>
+<text x="456.32" y="328.4847047468354" font-size="12" fill="#e18727" text-anchor="middle">722.0</text>
+<text x="90" y="525" font-size="14" fill="#e18727" text-anchor="start">● 归母净利润</text>
+<rect x="168.00" y="292.06" width="51.84" height="190.94" fill="#309674" rx="2"/>
+<text x="193.92" y="286.0601879746836" font-size="12" fill="#309674" text-anchor="middle">928.3</text>
+<rect x="328.00" y="283.49" width="51.84" height="199.51" fill="#309674" rx="2"/>
+<text x="353.92" y="277.4945435126582" font-size="12" fill="#309674" text-anchor="middle">969.9</text>
+<rect x="488.00" y="208.97" width="51.84" height="274.03" fill="#309674" rx="2"/>
+<text x="513.92" y="202.97155601265825" font-size="12" fill="#309674" text-anchor="middle">1332.2</text>
+<text x="245" y="525" font-size="14" fill="#309674" text-anchor="start">● 经营现金流</text>
+<text x="620" y="110" font-size="19" fill="#263448" text-anchor="start">同长度期间比较</text>
+<text x="620" y="135" font-size="13" fill="#263448" text-anchor="start">亿元</text>
+<path d="M678,483.0h470" stroke="#e5e9ef"/>
+<text x="670" y="488.0" font-size="12" fill="#263448" text-anchor="end">0</text>
+<path d="M678,401.75h470" stroke="#e5e9ef"/>
+<text x="670" y="406.75" font-size="12" fill="#263448" text-anchor="end">240</text>
+<path d="M678,320.5h470" stroke="#e5e9ef"/>
+<text x="670" y="325.5" font-size="12" fill="#263448" text-anchor="end">480</text>
+<path d="M678,239.25h470" stroke="#e5e9ef"/>
+<text x="670" y="244.25" font-size="12" fill="#263448" text-anchor="end">720</text>
+<path d="M678,158.0h470" stroke="#e5e9ef"/>
+<text x="670" y="163.0" font-size="12" fill="#263448" text-anchor="end">960</text>
+<text x="795.5" y="506" font-size="12" fill="#263448" text-anchor="middle">25年前三季</text>
+<text x="1030.5" y="506" font-size="12" fill="#263448" text-anchor="middle">26年前三季</text>
+<rect x="710.90" y="317.00" width="76.14" height="166.00" fill="#e18727" rx="2"/>
+<text x="748.97" y="310.99911015625" font-size="12" fill="#e18727" text-anchor="middle">490.3</text>
+<rect x="945.90" y="264.54" width="76.14" height="218.46" fill="#e18727" rx="2"/>
+<text x="983.97" y="258.53884921875" font-size="12" fill="#e18727" text-anchor="middle">645.3</text>
+<text x="680" y="525" font-size="14" fill="#e18727" text-anchor="start">● 归母净利润</text>
+<rect x="795.50" y="209.93" width="76.14" height="273.07" fill="#309674" rx="2"/>
+<text x="833.57" y="203.93083593749998" font-size="12" fill="#309674" text-anchor="middle">806.6</text>
+<rect x="1030.50" y="274.37" width="76.14" height="208.63" fill="#309674" rx="2"/>
+<text x="1068.57" y="268.37204921875" font-size="12" fill="#309674" text-anchor="middle">616.3</text>
+<text x="835" y="525" font-size="14" fill="#309674" text-anchor="start">● 经营现金流</text>
+<text x="35" y="598" font-size="13" fill="#263448" text-anchor="start">来源：2025年报与2026三季报；现金流与归母利润分属不同会计口径，需结合营运资金解释。</text>
+</g></svg>

@@ -1,0 +1,10 @@
+# macOS files and Python caches
+.DS_Store
+__pycache__/
+*.py[cod]
+
+# Local intermediate files; permanent evidence belongs in each stock's archive
+**/tmp/
+
+# Read-only material synced from the ChatGPT project
+/sources/

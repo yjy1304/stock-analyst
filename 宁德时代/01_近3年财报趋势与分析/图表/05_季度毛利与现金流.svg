@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="805" viewBox="0 0 1200 805">
+<rect width="100%" height="100%" fill="#fff"/>
+<g font-family="Arial Unicode MS,PingFang SC,Microsoft YaHei,sans-serif">
+<text x="35" y="38" font-size="24" fill="#263448" text-anchor="start">最近季度盈利与现金转化</text>
+<text x="35" y="65" font-size="14" fill="#263448" text-anchor="start">研究截至2026年10月21日｜中国会计准则合并口径</text>
+<text x="30" y="100" font-size="19" fill="#263448" text-anchor="start">单季利润率</text>
+<text x="30" y="125" font-size="13" fill="#263448" text-anchor="start">百分比，均为测算值</text>
+<path d="M88,333.0h1060" stroke="#e5e9ef"/>
+<text x="80" y="338.0" font-size="12" fill="#263448" text-anchor="end">0</text>
+<path d="M88,286.75h1060" stroke="#e5e9ef"/>
+<text x="80" y="291.75" font-size="12" fill="#263448" text-anchor="end">9</text>
+<path d="M88,240.5h1060" stroke="#e5e9ef"/>
+<text x="80" y="245.5" font-size="12" fill="#263448" text-anchor="end">18</text>
+<path d="M88,194.25h1060" stroke="#e5e9ef"/>
+<text x="80" y="199.25" font-size="12" fill="#263448" text-anchor="end">26</text>
+<path d="M88,148.0h1060" stroke="#e5e9ef"/>
+<text x="80" y="153.0" font-size="12" fill="#263448" text-anchor="end">35</text>
+<text x="154.25" y="356" font-size="12" fill="#263448" text-anchor="middle">24Q4</text>
+<text x="286.75" y="356" font-size="12" fill="#263448" text-anchor="middle">25Q1</text>
+<text x="419.25" y="356" font-size="12" fill="#263448" text-anchor="middle">25Q2</text>
+<text x="551.75" y="356" font-size="12" fill="#263448" text-anchor="middle">25Q3</text>
+<text x="684.25" y="356" font-size="12" fill="#263448" text-anchor="middle">25Q4</text>
+<text x="816.75" y="356" font-size="12" fill="#263448" text-anchor="middle">26Q1</text>
+<text x="949.25" y="356" font-size="12" fill="#263448" text-anchor="middle">26Q2</text>
+<text x="1081.75" y="356" font-size="12" fill="#263448" text-anchor="middle">26Q3</text>
+<circle cx="154.25" cy="210.82" r="4" fill="#8154a8"/>
+<text x="154.25" y="200.81852298395597" font-size="12" fill="#8154a8" text-anchor="middle">23.1</text>
+<circle cx="286.75" cy="203.99" r="4" fill="#8154a8"/>
+<text x="286.75" y="193.9876465910416" font-size="12" fill="#8154a8" text-anchor="middle">24.4</text>
+<circle cx="419.25" cy="197.81" r="4" fill="#8154a8"/>
+<text x="419.25" y="187.81105827866574" font-size="12" fill="#8154a8" text-anchor="middle">25.6</text>
+<circle cx="551.75" cy="196.62" r="4" fill="#8154a8"/>
+<text x="551.75" y="186.61705172198936" font-size="12" fill="#8154a8" text-anchor="middle">25.8</text>
+<circle cx="684.25" cy="183.88" r="4" fill="#8154a8"/>
+<text x="684.25" y="173.88241829630942" font-size="12" fill="#8154a8" text-anchor="middle">28.2</text>
+<circle cx="816.75" cy="201.83" r="4" fill="#8154a8"/>
+<text x="816.75" y="191.831712364408" font-size="12" fill="#8154a8" text-anchor="middle">24.8</text>
+<circle cx="949.25" cy="210.62" r="4" fill="#8154a8"/>
+<text x="949.25" y="200.61902323686954" font-size="12" fill="#8154a8" text-anchor="middle">23.2</text>
+<circle cx="1081.75" cy="223.65" r="4" fill="#8154a8"/>
+<text x="1081.75" y="213.64967778174872" font-size="12" fill="#8154a8" text-anchor="middle">20.7</text>
+<polyline points="154.25,210.82 286.75,203.99 419.25,197.81 551.75,196.62 684.25,183.88 816.75,201.83 949.25,210.62 1081.75,223.65" fill="none" stroke="#8154a8" stroke-width="2.5"/>
+<text x="90" y="375" font-size="14" fill="#8154a8" text-anchor="start">● 毛利率</text>
+<circle cx="154.25" cy="257.32" r="4" fill="#e18727"/>
+<text x="154.25" y="275.3156640771633" font-size="12" fill="#e18727" text-anchor="middle">14.3</text>
+<circle cx="286.75" cy="245.87" r="4" fill="#e18727"/>
+<text x="286.75" y="263.87119959260497" font-size="12" fill="#e18727" text-anchor="middle">16.5</text>
+<circle cx="419.25" cy="240.27" r="4" fill="#e18727"/>
+<text x="419.25" y="258.2710772782997" font-size="12" fill="#e18727" text-anchor="middle">17.5</text>
+<circle cx="551.75" cy="238.89" r="4" fill="#e18727"/>
+<text x="551.75" y="256.89445219603124" font-size="12" fill="#e18727" text-anchor="middle">17.8</text>
+<circle cx="684.25" cy="245.92" r="4" fill="#e18727"/>
+<text x="684.25" y="263.92384945443746" font-size="12" fill="#e18727" text-anchor="middle">16.5</text>
+<circle cx="816.75" cy="248.11" r="4" fill="#e18727"/>
+<text x="816.75" y="266.1144378987853" font-size="12" fill="#e18727" text-anchor="middle">16.1</text>
+<circle cx="949.25" cy="252.36" r="4" fill="#e18727"/>
+<text x="949.25" y="270.36067728907784" font-size="12" fill="#e18727" text-anchor="middle">15.3</text>
+<circle cx="1081.75" cy="265.03" r="4" fill="#e18727"/>
+<text x="1081.75" y="283.0299997118662" font-size="12" fill="#e18727" text-anchor="middle">12.9</text>
+<polyline points="154.25,257.32 286.75,245.87 419.25,240.27 551.75,238.89 684.25,245.92 816.75,248.11 949.25,252.36 1081.75,265.03" fill="none" stroke="#e18727" stroke-width="2.5"/>
+<text x="245" y="375" font-size="14" fill="#e18727" text-anchor="start">● 净利率</text>
+<text x="30" y="430" font-size="19" fill="#263448" text-anchor="start">单季现金流与利润</text>
+<text x="30" y="455" font-size="13" fill="#263448" text-anchor="start">亿元</text>
+<path d="M88,683.0h1060" stroke="#e5e9ef"/>
+<text x="80" y="688.0" font-size="12" fill="#263448" text-anchor="end">0</text>
+<path d="M88,631.75h1060" stroke="#e5e9ef"/>
+<text x="80" y="636.75" font-size="12" fill="#263448" text-anchor="end">158</text>
+<path d="M88,580.5h1060" stroke="#e5e9ef"/>
+<text x="80" y="585.5" font-size="12" fill="#263448" text-anchor="end">315</text>
+<path d="M88,529.25h1060" stroke="#e5e9ef"/>
+<text x="80" y="534.25" font-size="12" fill="#263448" text-anchor="end">472</text>
+<path d="M88,478.0h1060" stroke="#e5e9ef"/>
+<text x="80" y="483.0" font-size="12" fill="#263448" text-anchor="end">630</text>
+<text x="154.25" y="706" font-size="12" fill="#263448" text-anchor="middle">24Q4</text>
+<text x="286.75" y="706" font-size="12" fill="#263448" text-anchor="middle">25Q1</text>
+<text x="419.25" y="706" font-size="12" fill="#263448" text-anchor="middle">25Q2</text>
+<text x="551.75" y="706" font-size="12" fill="#263448" text-anchor="middle">25Q3</text>
+<text x="684.25" y="706" font-size="12" fill="#263448" text-anchor="middle">25Q4</text>
+<text x="816.75" y="706" font-size="12" fill="#263448" text-anchor="middle">26Q1</text>
+<text x="949.25" y="706" font-size="12" fill="#263448" text-anchor="middle">26Q2</text>
+<text x="1081.75" y="706" font-size="12" fill="#263448" text-anchor="middle">26Q3</text>
+<rect x="106.55" y="586.86" width="42.93" height="96.14" fill="#309674" rx="2"/>
+<rect x="239.05" y="576.05" width="42.93" height="106.95" fill="#309674" rx="2"/>
+<rect x="371.55" y="598.99" width="42.93" height="84.01" fill="#309674" rx="2"/>
+<rect x="504.05" y="611.50" width="42.93" height="71.50" fill="#309674" rx="2"/>
+<rect x="636.55" y="511.97" width="42.93" height="171.03" fill="#309674" rx="2"/>
+<rect x="769.05" y="573.40" width="42.93" height="109.60" fill="#309674" rx="2"/>
+<rect x="901.55" y="596.65" width="42.93" height="86.35" fill="#309674" rx="2"/>
+<rect x="1034.05" y="678.42" width="42.93" height="4.58" fill="#309674" rx="2"/>
+<text x="90" y="725" font-size="14" fill="#309674" text-anchor="start">● 经营现金流</text>
+<rect x="154.25" y="635.02" width="42.93" height="47.98" fill="#e18727" rx="2"/>
+<rect x="286.75" y="637.57" width="42.93" height="45.43" fill="#e18727" rx="2"/>
+<rect x="419.25" y="629.24" width="42.93" height="53.76" fill="#e18727" rx="2"/>
+<rect x="551.75" y="622.64" width="42.93" height="60.36" fill="#e18727" rx="2"/>
+<rect x="684.25" y="607.61" width="42.93" height="75.39" fill="#e18727" rx="2"/>
+<rect x="816.75" y="615.52" width="42.93" height="67.48" fill="#e18727" rx="2"/>
+<rect x="949.25" y="609.64" width="42.93" height="73.36" fill="#e18727" rx="2"/>
+<rect x="1081.75" y="613.87" width="42.93" height="69.13" fill="#e18727" rx="2"/>
+<text x="245" y="725" font-size="14" fill="#e18727" text-anchor="start">● 归母净利润</text>
+<text x="35" y="783" font-size="13" fill="#263448" text-anchor="start">来源：各期财报；季度成本及2026Q2/Q3现金流根据累计数据计算；2024成本采用调整后的比较数。</text>
+</g></svg>

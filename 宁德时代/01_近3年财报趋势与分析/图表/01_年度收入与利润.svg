@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620">
+<rect width="100%" height="100%" fill="#fff"/>
+<g font-family="Arial Unicode MS,PingFang SC,Microsoft YaHei,sans-serif">
+<text x="35" y="38" font-size="24" fill="#263448" text-anchor="start">三年收入与利润规模</text>
+<text x="35" y="65" font-size="14" fill="#263448" text-anchor="start">研究截至2026年10月21日｜中国会计准则合并口径</text>
+<text x="30" y="110" font-size="19" fill="#263448" text-anchor="start">营业收入</text>
+<text x="30" y="135" font-size="13" fill="#263448" text-anchor="start">亿元</text>
+<path d="M88,483.0h480" stroke="#e5e9ef"/>
+<text x="80" y="488.0" font-size="12" fill="#263448" text-anchor="end">0</text>
+<path d="M88,401.75h480" stroke="#e5e9ef"/>
+<text x="80" y="406.75" font-size="12" fill="#263448" text-anchor="end">1250</text>
+<path d="M88,320.5h480" stroke="#e5e9ef"/>
+<text x="80" y="325.5" font-size="12" fill="#263448" text-anchor="end">2500</text>
+<path d="M88,239.25h480" stroke="#e5e9ef"/>
+<text x="80" y="244.25" font-size="12" fill="#263448" text-anchor="end">3750</text>
+<path d="M88,158.0h480" stroke="#e5e9ef"/>
+<text x="80" y="163.0" font-size="12" fill="#263448" text-anchor="end">5000</text>
+<text x="168.0" y="506" font-size="12" fill="#263448" text-anchor="middle">2023</text>
+<text x="328.0" y="506" font-size="12" fill="#263448" text-anchor="middle">2024</text>
+<text x="488.0" y="506" font-size="12" fill="#263448" text-anchor="middle">2025</text>
+<rect x="110.40" y="222.40" width="103.68" height="260.60" fill="#2778b5" rx="2"/>
+<text x="162.24" y="216.40392075" font-size="12" fill="#2778b5" text-anchor="middle">4009.2</text>
+<rect x="270.40" y="247.69" width="103.68" height="235.31" fill="#2778b5" rx="2"/>
+<text x="322.23999999999995" y="241.69183990000002" font-size="12" fill="#2778b5" text-anchor="middle">3620.1</text>
+<rect x="430.40" y="207.59" width="103.68" height="275.41" fill="#2778b5" rx="2"/>
+<text x="482.23999999999995" y="201.59380790000006" font-size="12" fill="#2778b5" text-anchor="middle">4237.0</text>
+<text x="90" y="525" font-size="14" fill="#2778b5" text-anchor="start">● 收入</text>
+<text x="620" y="110" font-size="19" fill="#263448" text-anchor="start">归母与扣非利润</text>
+<text x="620" y="135" font-size="13" fill="#263448" text-anchor="start">亿元</text>
+<path d="M678,483.0h470" stroke="#e5e9ef"/>
+<text x="670" y="488.0" font-size="12" fill="#263448" text-anchor="end">0</text>
+<path d="M678,401.75h470" stroke="#e5e9ef"/>
+<text x="670" y="406.75" font-size="12" fill="#263448" text-anchor="end">215</text>
+<path d="M678,320.5h470" stroke="#e5e9ef"/>
+<text x="670" y="325.5" font-size="12" fill="#263448" text-anchor="end">430</text>
+<path d="M678,239.25h470" stroke="#e5e9ef"/>
+<text x="670" y="244.25" font-size="12" fill="#263448" text-anchor="end">645</text>
+<path d="M678,158.0h470" stroke="#e5e9ef"/>
+<text x="670" y="163.0" font-size="12" fill="#263448" text-anchor="end">860</text>
+<text x="756.3333333333334" y="506" font-size="12" fill="#263448" text-anchor="middle">2023</text>
+<text x="913.0" y="506" font-size="12" fill="#263448" text-anchor="middle">2024</text>
+<text x="1069.6666666666665" y="506" font-size="12" fill="#263448" text-anchor="middle">2025</text>
+<rect x="699.93" y="316.26" width="50.76" height="166.74" fill="#e18727" rx="2"/>
+<text x="725.3133333333334" y="310.26272558139533" font-size="12" fill="#e18727" text-anchor="middle">441.2</text>
+<rect x="856.60" y="291.23" width="50.76" height="191.77" fill="#e18727" rx="2"/>
+<text x="881.98" y="285.2323063953488" font-size="12" fill="#e18727" text-anchor="middle">507.4</text>
+<rect x="1013.27" y="210.15" width="50.76" height="272.85" fill="#e18727" rx="2"/>
+<text x="1038.6466666666665" y="204.1463180232558" font-size="12" fill="#e18727" text-anchor="middle">722.0</text>
+<text x="680" y="525" font-size="14" fill="#e18727" text-anchor="start">● 归母净利润</text>
+<rect x="756.33" y="331.49" width="50.76" height="151.51" fill="#b66c19" rx="2"/>
+<text x="781.7133333333334" y="325.4907668604651" font-size="12" fill="#b66c19" text-anchor="middle">400.9</text>
+<rect x="913.00" y="312.97" width="50.76" height="170.03" fill="#b66c19" rx="2"/>
+<text x="938.38" y="306.96862005813955" font-size="12" fill="#b66c19" text-anchor="middle">449.9</text>
+<rect x="1069.67" y="239.22" width="50.76" height="243.78" fill="#b66c19" rx="2"/>
+<text x="1095.0466666666666" y="233.22028139534885" font-size="12" fill="#b66c19" text-anchor="middle">645.1</text>
+<text x="835" y="525" font-size="14" fill="#b66c19" text-anchor="start">● 扣非净利润</text>
+<text x="35" y="598" font-size="13" fill="#263448" text-anchor="start">来源：2025年报主要指标；2023至2025年均为完整年度。</text>
+</g></svg>

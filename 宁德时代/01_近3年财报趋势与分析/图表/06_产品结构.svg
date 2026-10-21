@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620">
+<rect width="100%" height="100%" fill="#fff"/>
+<g font-family="Arial Unicode MS,PingFang SC,Microsoft YaHei,sans-serif">
+<text x="35" y="38" font-size="24" fill="#263448" text-anchor="start">2026上半年产品收入与毛利率</text>
+<text x="35" y="65" font-size="14" fill="#263448" text-anchor="start">研究截至2026年10月21日｜中国会计准则合并口径</text>
+<text x="30" y="110" font-size="19" fill="#263448" text-anchor="start">各产品收入</text>
+<text x="30" y="135" font-size="13" fill="#263448" text-anchor="start">亿元</text>
+<path d="M88,483.0h480" stroke="#e5e9ef"/>
+<text x="80" y="488.0" font-size="12" fill="#263448" text-anchor="end">0</text>
+<path d="M88,401.75h480" stroke="#e5e9ef"/>
+<text x="80" y="406.75" font-size="12" fill="#263448" text-anchor="end">568</text>
+<path d="M88,320.5h480" stroke="#e5e9ef"/>
+<text x="80" y="325.5" font-size="12" fill="#263448" text-anchor="end">1135</text>
+<path d="M88,239.25h480" stroke="#e5e9ef"/>
+<text x="80" y="244.25" font-size="12" fill="#263448" text-anchor="end">1702</text>
+<path d="M88,158.0h480" stroke="#e5e9ef"/>
+<text x="80" y="163.0" font-size="12" fill="#263448" text-anchor="end">2270</text>
+<text x="148.0" y="506" font-size="12" fill="#263448" text-anchor="middle">动力电池</text>
+<text x="268.0" y="506" font-size="12" fill="#263448" text-anchor="middle">储能电池</text>
+<text x="388.0" y="506" font-size="12" fill="#263448" text-anchor="middle">材料回收及矿产</text>
+<text x="508.0" y="506" font-size="12" fill="#263448" text-anchor="middle">其他业务</text>
+<rect x="104.80" y="207.93" width="77.76" height="275.07" fill="#2778b5" rx="2"/>
+<text x="143.68" y="201.93132488986782" font-size="12" fill="#2778b5" text-anchor="middle">1921.2</text>
+<rect x="224.80" y="406.75" width="77.76" height="76.25" fill="#2778b5" rx="2"/>
+<text x="263.68" y="400.7453115638766" font-size="12" fill="#2778b5" text-anchor="middle">532.6</text>
+<rect x="344.80" y="456.07" width="77.76" height="26.93" fill="#2778b5" rx="2"/>
+<text x="383.68" y="450.0678398678414" font-size="12" fill="#2778b5" text-anchor="middle">188.1</text>
+<rect x="464.80" y="464.79" width="77.76" height="18.21" fill="#2778b5" rx="2"/>
+<text x="503.68" y="458.7890545154185" font-size="12" fill="#2778b5" text-anchor="middle">127.2</text>
+<text x="90" y="525" font-size="14" fill="#2778b5" text-anchor="start">● 收入</text>
+<text x="620" y="110" font-size="19" fill="#263448" text-anchor="start">同口径产品毛利率</text>
+<text x="620" y="135" font-size="13" fill="#263448" text-anchor="start">百分比，测算值</text>
+<path d="M678,483.0h470" stroke="#e5e9ef"/>
+<text x="670" y="488.0" font-size="12" fill="#263448" text-anchor="end">0</text>
+<path d="M678,401.75h470" stroke="#e5e9ef"/>
+<text x="670" y="406.75" font-size="12" fill="#263448" text-anchor="end">10</text>
+<path d="M678,320.5h470" stroke="#e5e9ef"/>
+<text x="670" y="325.5" font-size="12" fill="#263448" text-anchor="end">20</text>
+<path d="M678,239.25h470" stroke="#e5e9ef"/>
+<text x="670" y="244.25" font-size="12" fill="#263448" text-anchor="end">30</text>
+<path d="M678,158.0h470" stroke="#e5e9ef"/>
+<text x="670" y="163.0" font-size="12" fill="#263448" text-anchor="end">40</text>
+<text x="756.3333333333334" y="506" font-size="12" fill="#263448" text-anchor="middle">动力电池</text>
+<text x="913.0" y="506" font-size="12" fill="#263448" text-anchor="middle">储能电池</text>
+<text x="1069.6666666666665" y="506" font-size="12" fill="#263448" text-anchor="middle">材料回收及矿产</text>
+<rect x="699.93" y="300.91" width="50.76" height="182.09" fill="#2778b5" rx="2"/>
+<text x="725.3133333333334" y="294.90728208867824" font-size="12" fill="#2778b5" text-anchor="middle">22.4</text>
+<rect x="856.60" y="275.68" width="50.76" height="207.32" fill="#2778b5" rx="2"/>
+<text x="881.98" y="269.67621249107924" font-size="12" fill="#2778b5" text-anchor="middle">25.5</text>
+<rect x="1013.27" y="310.50" width="50.76" height="172.50" fill="#2778b5" rx="2"/>
+<text x="1038.6466666666665" y="304.4978577370253" font-size="12" fill="#2778b5" text-anchor="middle">21.2</text>
+<text x="680" y="525" font-size="14" fill="#2778b5" text-anchor="start">● 2025上半年</text>
+<rect x="756.33" y="315.39" width="50.76" height="167.61" fill="#e18727" rx="2"/>
+<text x="781.7133333333334" y="309.392185429488" font-size="12" fill="#e18727" text-anchor="middle">20.6</text>
+<rect x="913.00" y="288.34" width="50.76" height="194.66" fill="#e18727" rx="2"/>
+<text x="938.38" y="282.34351497974114" font-size="12" fill="#e18727" text-anchor="middle">24.0</text>
+<rect x="1069.67" y="263.27" width="50.76" height="219.73" fill="#e18727" rx="2"/>
+<text x="1095.0466666666666" y="257.2706070327283" font-size="12" fill="#e18727" text-anchor="middle">27.0</text>
+<text x="835" y="525" font-size="14" fill="#e18727" text-anchor="start">● 2026上半年</text>
+<text x="35" y="598" font-size="13" fill="#263448" text-anchor="start">来源：2026、2025半年报；材料回收与矿产合并比较；其他收入为总收入减三类产品的测算值。</text>
+</g></svg>

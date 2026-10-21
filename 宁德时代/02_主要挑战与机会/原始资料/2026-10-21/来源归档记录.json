@@ -1,0 +1,112 @@
+[
+  {
+    "id": "P1_消费税调整",
+    "published": "2026-07-17",
+    "url": "https://szs.mof.gov.cn/zhengcefabu/202607/t20260717_3993743.htm",
+    "accessed": "2026-10-21",
+    "file": "P1_消费税调整.html",
+    "status": "downloaded",
+    "bytes": 30836,
+    "sha256": "441116f84efbdf3623adcc26da7347916914087a1cef7ccf2a33ea5b47787445"
+  },
+  {
+    "id": "P2_出口退税调整",
+    "published": "2026-01-09",
+    "url": "https://szs.mof.gov.cn/zhengcefabu/202601/t20260109_3981637.htm",
+    "accessed": "2026-10-21",
+    "file": "P2_出口退税调整.html",
+    "status": "downloaded",
+    "bytes": 14846,
+    "sha256": "6eef2c6823237859d2b292090808e451c14702483c12303c57736c5575ab639f"
+  },
+  {
+    "id": "P3_消费税问答",
+    "published": "2026-08-27",
+    "url": "https://www.chinatax.gov.cn/chinatax/c102414/c5252006/content.html",
+    "accessed": "2026-10-21",
+    "file": "P3_消费税问答.html",
+    "status": "downloaded",
+    "bytes": 35250,
+    "sha256": "52bdaf105d8210f6299a5d48408653da354463f9e3df4eb8284ec15931062432"
+  },
+  {
+    "id": "P4_美国PFE指引",
+    "published": "2026-03-09公报",
+    "url": "https://www.irs.gov/irb/2026-11_IRB",
+    "accessed": "2026-10-21",
+    "file": "P4_美国PFE指引.html",
+    "status": "downloaded",
+    "bytes": 681997,
+    "sha256": "4647be57013c043a7f087f9b4fa63d9ea7ae082a1f51e62d3c763fa4b9a0be5f"
+  },
+  {
+    "id": "P5_欧盟电池护照指引",
+    "published": "2026-08-21",
+    "url": "https://single-market-economy.ec.europa.eu/news/guidance-support-preparations-digital-batteries-passport-2026-08-21_en",
+    "accessed": "2026-10-21",
+    "file": "P5_欧盟电池护照指引.html",
+    "status": "downloaded",
+    "bytes": 99151,
+    "sha256": "0348ac70baf97b75289d7e23da8659a81c0fadac0cf253542645e910c915c53d"
+  },
+  {
+    "id": "P6_欧盟电池护照FAQ",
+    "published": "访问于2026-10-21",
+    "url": "https://single-market-economy.ec.europa.eu/single-market/digital-product-passport/eu-digital-product-passport-faq-batteries_en",
+    "accessed": "2026-10-21",
+    "file": "P6_欧盟电池护照FAQ.html",
+    "status": "downloaded",
+    "bytes": 153491,
+    "sha256": "1e0a4ec1dc1c43b96fd2d93e2a0f819a94fcad6e999e151645e6743b82fb7802"
+  },
+  {
+    "id": "M1_SNE非中国市场",
+    "published": "2026-10-07",
+    "url": "https://sneresearch.com/kr/insight/release_view/750/page/372?s_cat=%7C&s_keyword=",
+    "accessed": "2026-10-21",
+    "file": "M1_SNE非中国市场.html",
+    "status": "downloaded",
+    "bytes": 69498,
+    "sha256": "a49f418bf60a5f0b007fc5e77ad63249b2acfe9f68124a6eb6c00395488e41e2"
+  },
+  {
+    "id": "C1_钠电储能发布",
+    "published": "2026-06-22",
+    "url": "https://www.catl.com/en/news/6861.html",
+    "accessed": "2026-10-21",
+    "file": "C1_钠电储能发布.html",
+    "status": "downloaded",
+    "bytes": 58697,
+    "sha256": "5218c9a4de6a480f1afcaf7fab150856cc5dfc8dbe0f870e7ae12b9c32636fb5"
+  },
+  {
+    "id": "C2_Alfen钠电合作",
+    "published": "2026-07-16",
+    "url": "https://www.catl.com/en/news/6900.html",
+    "accessed": "2026-10-21",
+    "file": "C2_Alfen钠电合作.html",
+    "status": "downloaded",
+    "bytes": 49565,
+    "sha256": "7dacad9660d054e7609b5e94497fa167741de9d3d6b24126a5b42ed7b5b16c6e"
+  },
+  {
+    "id": "C3_赛力斯合作",
+    "published": "2026-10-10",
+    "url": "https://www.catl.com/en/news/7014.html",
+    "accessed": "2026-10-21",
+    "file": "C3_赛力斯合作.html",
+    "status": "downloaded",
+    "bytes": 49157,
+    "sha256": "f42f1dcfa8aed3ffaf9676c6a2167cc6529f8e912e66588e9c2ca23e43f253ae"
+  },
+  {
+    "id": "G1_匈牙利政府许可说明",
+    "published": "2026-08-25",
+    "url": "https://kormanyhivatalok.hu/hirek/vizsgalat-es-elutasitott-engedely-catl-nel",
+    "accessed": "2026-10-21",
+    "file": "G1_匈牙利政府许可说明.html",
+    "status": "downloaded",
+    "bytes": 88267,
+    "sha256": "fda53e93cbbda6b9d587cba20a4709797f8fd53eb814c497455f5d3c25340ae3"
+  }
+]

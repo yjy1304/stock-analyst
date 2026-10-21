@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="460" viewBox="0 0 960 460">
+<rect width="960" height="460" fill="#fff"/>
+<g font-family="PingFang SC,Microsoft YaHei,sans-serif" fill="#182b43">
+<text x="35" y="40" font-size="23">DRAM关联采购月均金额与额度比较</text>
+<text x="35" y="70" font-size="15">亿元人民币 不含税｜研究截至2026年9月30日｜不是产量或收入</text>
+<g stroke="#e0e5ea"><path d="M300 115V340 M400 115V340 M500 115V340 M600 115V340 M700 115V340 M800 115V340 M900 115V340"/></g>
+<text x="30" y="157" font-size="17">2026年1至8月 实际月均</text><rect x="300" y="130" width="224.75" height="40" fill="#3978b5"/><text x="537" y="157" font-size="18">4.50</text>
+<text x="30" y="227" font-size="17">2026年9至12月 隐含月均</text><rect x="300" y="200" width="532.25" height="40" fill="#a8bfd5"/><text x="843" y="227" font-size="18">10.65</text>
+<text x="30" y="297" font-size="17">2027年1至4月 额度月均</text><rect x="300" y="270" width="551.375" height="40" fill="#e3a046"/><text x="861" y="297" font-size="18">11.03</text>
+<g font-size="14" text-anchor="middle"><text x="300" y="355">0</text><text x="400" y="355">2</text><text x="500" y="355">4</text><text x="600" y="355">6</text><text x="700" y="355">8</text><text x="800" y="355">10</text><text x="900" y="355">12</text></g>
+<text x="35" y="392" font-size="15">隐含月均＝全年78.54亿元额度减前八个月实际35.96亿元，再除以4；并非采购承诺。</text>
+<text x="35" y="421" font-size="15">来源：公司2026-087公告；月均均为测算。2027年前四个月较隐含后四个月金额高3.59%。</text>
+</g></svg>

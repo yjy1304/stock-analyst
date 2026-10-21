@@ -1,0 +1,62 @@
+[
+  {
+    "file": "2023年报.pdf",
+    "pages": 302,
+    "bytes": 5667829,
+    "sha256": "407a9218214e7dd43891d3e7f32fd4d2a67e936ad204c0ffd0f14fe6b4ef073d"
+  },
+  {
+    "file": "2024三季报.pdf",
+    "pages": 13,
+    "bytes": 395056,
+    "sha256": "a4dec20a40ea3d0624e7eeea07ac9c6d40cf70054c99746515feb7bffc20c650"
+  },
+  {
+    "file": "2024半年报.pdf",
+    "pages": 277,
+    "bytes": 5088840,
+    "sha256": "44f6a4a0ef8a55254c6410c459e66c28cbf1ec3bc13f8c6ec77755df83d07d96"
+  },
+  {
+    "file": "2024年报.pdf",
+    "pages": 326,
+    "bytes": 2576423,
+    "sha256": "3351de2a6f67a47fa06de0e4ea81de5dc841327d3d371d2981f4c1bb185466a3"
+  },
+  {
+    "file": "2025一季报.pdf",
+    "pages": 11,
+    "bytes": 153728,
+    "sha256": "6df3036adb2c6cb74c441598544a45d51cdf79ac7cd484f4bec9f687346b839a"
+  },
+  {
+    "file": "2025三季报.pdf",
+    "pages": 12,
+    "bytes": 190215,
+    "sha256": "0e72be77a87cf7291fa2852595035dcf2885e0a7032324e05ecc5755d555d02a"
+  },
+  {
+    "file": "2025半年报.pdf",
+    "pages": 279,
+    "bytes": 2391190,
+    "sha256": "42ad0e34f44b677498797cc06790012c46c4e1f848d4f363f0dd79492464f306"
+  },
+  {
+    "file": "2025年报.pdf",
+    "pages": 394,
+    "bytes": 2915181,
+    "sha256": "494bc5d9d9b0fc2d74a61151fb24ab1169e4f77f1953b109a56b8c3da14c70c5"
+  },
+  {
+    "file": "2026一季报.pdf",
+    "pages": 11,
+    "bytes": 151515,
+    "sha256": "6459e20ea30acd0ea1f74b166c387d712f30a1e351009157d588424f650879e0"
+  },
+  {
+    "file": "2026半年报.pdf",
+    "pages": 272,
+    "bytes": 2772595,
+    "sha256": "b7d17af763a5d2208c7bc3d9c0aea6c9dd4bf659255c34cc5b17b3239db73f4e"
+  }
+]
